@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -64,8 +63,8 @@
 </head>
 <body>
   <header>
-    <h1>🍵 MateCetas 🍄</h1>
-    <p>Proyecto Escolar - 2025</p>
+    <h1>🧉 MateCetas 🪴</h1>
+    <p>Proyecto Escolar - 7°Tecao 2025</p>
   </header>
 
   <main>
@@ -89,7 +88,7 @@
   </main>
 
   <footer>
-    <p>© 2025 - MateCetas | Proyecto Escolar</p>
+    <p>© 7°Tecao 2025 - Matecetas | Proyecto Escolar</p>
   </footer>
 </body>
 </html>
