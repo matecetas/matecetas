@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Proyecto Escolar - MateCetas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f0f0;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 20px;
+    }
+    h1 {
+      margin: 0;
+    }
+    main {
+      padding: 30px;
+    }
+    p {
+      font-size: 18px;
+    }
+    footer {
+      margin-top: 50px;
+      background: #2c3e50;
+      color: white;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Bienvenidos a MateCetas 🍵🍄</h1>
+  </header>
+
+  <main>
+    <p>Este es el sitio oficial de nuestro <b>proyecto escolar</b>.</p>
+    <p>Aquí compartiremos información, recursos y avances.</p>
+  </main>
+
+  <footer>
+    <p>Proyecto Escolar - 2025</p>
+  </footer>
+</body>
+</html>
