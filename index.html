@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Matecetas Proyecto Escolar</title>
+  <link rel="icon" type="image/png" href="favicon.png">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -21,9 +22,13 @@
     }
 
     header h1 {
-      margin: 0;
-      font-size: 2em;
-    }
+  animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {opacity: 0; transform: translateY(-20px);}
+  to {opacity: 1; transform: translateY(0);}
+}
 
     main {
       padding: 20px;
@@ -63,7 +68,7 @@
       padding: 15px;
       margin-top: 20px;
     }
-  </style>
+  </style>  
 </head>
 <body>
   <header>
@@ -73,7 +78,7 @@
 
   <main>
     <h2>Bienvenidos</h2>
-    <p>Este es el sitio oficial del proyecto escolar <b>MateCetas</b>, donde compartimos nuestras ideas, avances y recursos.</p>
+    <p>Este es el sitio oficial del proyecto escolar <b>Matecetas</b>, donde compartimos nuestras ideas, avances y recursos.</p>
 
     <div class="card">
       <h3>📖 ¿De qué trata?</h3>
